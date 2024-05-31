@@ -9869,7 +9869,7 @@
 		)
 		(uuid "0dd4cf66-7f65-4e5e-8ead-96ef7410a742")
 	)
-	(text "Stackup JLC08161H-7628\n8.28 mil prepreg L1-L2"
+	(text "Stackup JLC08161H-2116\n4.58 mil prepreg L1-L2"
 		(exclude_from_sim no)
 		(at 251.714 153.67 0)
 		(effects

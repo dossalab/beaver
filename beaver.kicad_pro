@@ -135,7 +135,7 @@
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.2,
+        "min_track_width": 0.09,
         "min_via_annular_width": 0.05,
         "min_via_diameter": 0.15,
         "solder_mask_clearance": 0.0,
@@ -499,7 +499,7 @@
         "name": "Antenna_Matched",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.324358,
+        "track_width": 0.185674,
         "via_diameter": 0.4,
         "via_drill": 0.3,
         "wire_width": 6

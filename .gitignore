@@ -1,4 +1,5 @@
 fp-info-cache
 beaver-backups/
+build/
 *.lck
 *.kicad_prl
